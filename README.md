@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+URL - https://reqres.in/api/users?page=2
 
-This project is a starting point for a Flutter application.
+# OUTPUT
+ ![image](https://user-images.githubusercontent.com/60555992/213863500-9ded6300-b65b-4d01-937d-6d26134d9f72.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
